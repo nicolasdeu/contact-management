@@ -1,0 +1,14 @@
+*
+TEST Un
+fixe : 0111111111
+portable : 0011111111
+adresse e-mail : untest@chiffre.fr
+skype : testun
+adresse : quelquepart
+*
+TEST Deux
+fixe : 0222222222
+portable : 0022222222
+adresse e-mail : deuxtest@chiffre.fr
+skype : testdeux
+adresse : ailleurs
